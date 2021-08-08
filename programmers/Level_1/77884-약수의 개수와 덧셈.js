@@ -36,7 +36,7 @@ function solution(left, right) {
 
 // 제곱근을 이용해 약수의 개수를 구별한 코드(함수를 새로 만들지 않음.)
 function solution(left, right) {
-  var answer = 0;
+  let answer = 0;
   for (let i = left; i <= right; i++) {
     if (Number.isInteger(Math.sqrt(i))) {
       answer -= i;

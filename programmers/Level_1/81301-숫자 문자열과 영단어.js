@@ -10,7 +10,6 @@ COMMENT:
 */
 
 function solution(s) {
-  var answer = 0;
   s = s.replace(/one/g, '1');
   s = s.replace(/two/g, '2');
   s = s.replace(/three/g, '3');
