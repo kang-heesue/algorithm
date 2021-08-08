@@ -11,7 +11,7 @@ Javascript
 ## 커밋 메시지
 날짜와 진행 중인지 완료한 문제인지 상태로 표시합니다.
 ```javascript
-YYYY-MM-DD [Status: in progress / done]
+YYYY-MM-DD [Status - in progress / done]
 ```
 
 ## 풀이 코드
