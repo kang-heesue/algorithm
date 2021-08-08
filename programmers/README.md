@@ -1,5 +1,4 @@
 # Programmers
-### [프로그래머스 사이트](https://programmers.co.kr/)
 
 ## 문제 유형
 - [Level 1](https://github.com/kang-heesue/algorithms/tree/main/programmers/Level_1)
