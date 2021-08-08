@@ -1,7 +1,7 @@
 /*
 ABOUT
 
-DATE: 2021-07-26
+DATE: 2021-07-27
 
 URL: https://programmers.co.kr/learn/courses/30/lessons/72410
 
@@ -31,7 +31,7 @@ function solution(new_id) {
   return answer;
 }
 
-// 좀 더 간결한 코드
+// 간결한 코드
 function solution(new_id) {
   const answer = new_id
     .toLowerCase()
