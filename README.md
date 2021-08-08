@@ -1,7 +1,7 @@
 # Algorithms
 
-## 문제 출처
-- [프로그래머스](https://programmers.co.kr/)
+## 문제 풀이
+- [프로그래머스](https://github.com/kang-heesue/algorithms/tree/main/programmers)
 
 ## 사용 언어
 ```javascript
