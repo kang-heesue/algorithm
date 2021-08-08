@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithm
 
 ## 문제 풀이
 - [프로그래머스](https://github.com/kang-heesue/algorithms/tree/main/programmers)
