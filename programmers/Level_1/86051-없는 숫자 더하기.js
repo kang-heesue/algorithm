@@ -1,7 +1,7 @@
 /*
 ABOUT
 
-DATE: 2021-10-29
+DATE: 2021-10-28
 
 URL: https://programmers.co.kr/learn/courses/30/lessons/86051
 
