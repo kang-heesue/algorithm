@@ -34,14 +34,14 @@
 | 12954 |	[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/12954-x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90.js) |  |
 | 12969 |	[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/12969-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.js) |  |
 | 12977 |	[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/12977-%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js) | Summer/Winter Coding(~2018) |
-| 12982 |	[예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | [Javascript]() | Summer/Winter Coding(~2018) |
-| 17681 |	[[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | [Javascript]() | 2018 KAKAO BLIND RECRUITMENT |
+| 12982 |	[예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | []() | Summer/Winter Coding(~2018) |
+| 17681 |	[[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) | []() | 2018 KAKAO BLIND RECRUITMENT |
 | 17682 |	[[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/17682-%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.js) | 2018 KAKAO BLIND RECRUITMENT |
 | 42576	| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/42576-%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.js) |  |
 | 42748	| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/42748-K%EB%B2%88%EC%A7%B8%20%EC%88%98.js) |  |
 | 42840	| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/42840-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js) |  |
-| 42862	| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [Javascript]() |  |
-| 42889	| [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [Javascript]() | 2019 KAKAO BLIND RECRUITMENT |
+| 42862	| [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/42862-%EC%B2%B4%EC%9C%A1%EB%B3%B5.js) |  |
+| 42889	| [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | []() | 2019 KAKAO BLIND RECRUITMENT |
 | 64061	| [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | [Javascript]() | 2019 카카오 개발자 겨울 인턴십 |
 | 67256	| [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/67256-%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.js) | 2020 카카오 인턴십 |
 | 68644	| [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/68644-%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0.js) | 월간 코드 챌린지 시즌1 |
@@ -49,6 +49,10 @@
 | 70128	| [내적](https://programmers.co.kr/learn/courses/30/lessons/70128) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/70128-%EB%82%B4%EC%A0%81.js) | 월간 코드 챌린지 시즌1 |
 | 72410	| [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/72410-%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.js) | 2021 KAKAO BLIND RECRUITMENT |
 | 76501	| [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/76501-%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0.js) | 월간 코드 챌린지 시즌2 |
-| 77484	| [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [Javascript]() | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |
+| 77484	| [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/77484-%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.js) | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |
 | 77884	| [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/77884-%EC%95%BD%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%EC%99%80%20%EB%8D%A7%EC%85%88.js) | 월간 코드 챌린지 시즌2 |
 | 81301	| [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/81301-%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.js) | 2021 카카오 채용연계형 인턴십 |
+| 82612 | [1주차_부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/82612-1%EC%A3%BC%EC%B0%A8_%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0.js) | 위클리 챌린지 |
+| 83201 | [2주차_상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/83201-2%EC%A3%BC%EC%B0%A8_%EC%83%81%ED%98%B8%20%ED%8F%89%EA%B0%80.js) | 위클리 챌린지 |
+| 84325 | [4주차_직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325) | [Javascript](https://github.com/kang-heesue/algorithm/blob/main/programmers/Level_1/84325-4%EC%A3%BC%EC%B0%A8_%EC%A7%81%EC%97%85%EA%B5%B0%20%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0.js) | 위클리 챌린지 |
+| 85002 | [6주차_복서 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/85002) | []() | 위클리 챌린지 |
