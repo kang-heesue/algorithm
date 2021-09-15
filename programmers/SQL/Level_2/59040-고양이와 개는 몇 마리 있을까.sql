@@ -1,0 +1,15 @@
+/*
+ABOUT
+
+DATE: 2021-09-14
+
+URL: https://programmers.co.kr/learn/courses/30/lessons/59040
+
+COMMENT:
+ANIMAL TYPE에 따라 그룹을 나누고 Cat이 먼저 와야 하므로 정렬한다.
+*/
+
+SELECT ANIMAL_TYPE, COUNT(ANIMAL_TYPE)
+FROM ANIMAL_INS
+GROUP BY ANIMAL_TYPE
+ORDER BY COUNT(ANIMAL_TYPE);
