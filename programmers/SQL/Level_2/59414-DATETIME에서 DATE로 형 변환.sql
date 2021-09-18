@@ -6,7 +6,7 @@ DATE: 2021-09-17
 URL: https://programmers.co.kr/learn/courses/30/lessons/59414
 
 COMMENT:
-DATETIME을 년-월-일 형태로 출력해야하는데, 시분초를 지우기 위해 DATE_FROMAT을 이용해야 한다.
+DATETIME을 년-월-일 형태로 출력해야하는데, 시분초를 지우기 위해 DATE_FORMAT을 이용해야 한다.
 출력 형태와 같게 '%Y-%m-%d'를 이용한다.
 */
 
