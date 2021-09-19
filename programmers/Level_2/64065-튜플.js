@@ -7,7 +7,7 @@ URL: https://programmers.co.kr/learn/courses/30/lessons/64065
 
 COMMENT:
 입력값을 문자열 배열이 아닌 숫자 배열 형태로 만든다.
-reduce 초기값으로 []을 정해주고 acc, cur을 비교해 새로운 값이면 푸시를 반복한다.
+reduce 초기값으로 []을 정해주고 acc, cur를 비교해 새로운 값이면 푸시를 반복한다.
 */
 
 function solution(s) {
