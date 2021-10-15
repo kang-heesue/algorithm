@@ -13,3 +13,4 @@
 | 59410 | [NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410) | [MySQL](https://github.com/kang-heesue/algorithm/blob/main/programmers/SQL/Level_2/59410-NULL%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.sql) |  |
 | 59412 | [입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412) | [MySQL](https://github.com/kang-heesue/algorithm/blob/main/programmers/SQL/Level_2/59412-%EC%9E%85%EC%96%91%20%EC%8B%9C%EA%B0%81%20%EA%B5%AC%ED%95%98%EA%B8%B0(1).sql) |  |
 | 59414 | [DATETIME에서 DATE로 형 변환](https://programmers.co.kr/learn/courses/30/lessons/59414) | [MySQL](https://github.com/kang-heesue/algorithm/blob/main/programmers/SQL/Level_2/59414-DATETIME%EC%97%90%EC%84%9C%20DATE%EB%A1%9C%20%ED%98%95%20%EB%B3%80%ED%99%98.sql) |  |
+ 
