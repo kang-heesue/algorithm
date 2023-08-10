@@ -23,8 +23,6 @@ ABOUT
 
 DATE: YYYY-MM-DD
 
-URL: 문제 주소
-
 COMMENT:
 문제 해결 전략 간단히 작성
 */
